@@ -58,19 +58,10 @@ for Handle Missing values we have used mean median and mode concept where its wo
 
 
 
-![App Screenshot](https://raw.githubusercontent.com/saikamal3344/Fraud-Analysis-of-the-Customers/main/Images/download%20(1).png)
-
 ### Before Handling Outliers on of the feature looks like this:
 
 
-
-![App Screenshot](https://raw.githubusercontent.com/saikamal3344/Fraud-Analysis-of-the-Customers/main/Images/download%20(2).png)
-
-
 ### After handling Outliers using some IQR Techniques the data comes to position called Normal Distribution:
-
-
-![App Screenshot](https://raw.githubusercontent.com/saikamal3344/Fraud-Analysis-of-the-Customers/main/Images/download%20(3).png)
 
 
 If this looks good you can follow the entire concept which mentioned in the above coading file:
@@ -108,9 +99,6 @@ since after training the model I got the results of :
                   - RF Accuracy  : 0.690949494949495
 since almost the results are very close to each other I stuck around to select the best model: No worries I am having AUC and ROC concept so I find out FPR and TPR using Grapical represntation and selected best model which is Logistic Regression:
 
-
-![App Screenshot](
-https://raw.githubusercontent.com/saikamal3344/Fraud-Analysis-of-the-Customers/main/Images/download%20(4).png)
 
 
 Finally It takes lot of time for Data Analysis and model developement part but following ML pipeline really gives me perfect way for doing an End-to-End peoject:
