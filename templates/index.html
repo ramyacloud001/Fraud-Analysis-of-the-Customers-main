@@ -1,0 +1,43 @@
+<html>
+    <head> 
+        <title>Fraud Detection Using Machine learning Classification problem statement</title>
+    </head>
+
+<div class = 'container text-center'>
+    <form action="/predict" method="POST">
+
+
+        <input type="text" name="Age" placeholder="Age of a Person" required = 'required'>
+        <br>
+        <input type="text" name="OpenCreditLines" placeholder="Number of open credit" required = 'required'>
+        <br>
+        <input type="text" name="Realestate lonaes" placeholder="Any real estate loanes" required = 'required'>
+        <br>
+        <input type="text" name="Income" placeholder="Monthly Income" required = 'required'>
+        <br>
+        <input type="text" name="Gender" placeholder="Male 1 Female 0" required = 'required'>
+        <br>
+        <input type="text" name="East" placeholder="East means 1 or 0" required = 'required'>
+        <br>
+        <input type="text" name="north" placeholder="north means 1 or 0" required = 'required'>
+        <br>
+        <input type="text" name="south" placeholder="south means 1 or 0" required = 'required'>
+        <br>
+        <input type="text" name="west" placeholder="west means 1 or 0" required = 'required'>
+        <br>
+        <input type="text" name="Rented" placeholder="Rented 0 own house 1" required = 'required'>
+        <br>
+        <input type="text" name="occupartion" placeholder="occupration values from 0 to 4" required = 'required'>
+        <br>
+        <input type="text" name="Education" placeholder="education values from 0 to 4" required = 'required'>
+        <br>
+
+         <button type="submit" class="btn btn-outline-warning">predict</button>
+            
+
+    </form>
+    <strong> Transcation is a = {{value}} Aanalysis</strong>
+
+
+</div>
+</html>
