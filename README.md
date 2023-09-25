@@ -149,10 +149,4 @@ For support, email ramyasri.adepu0107@gmail.com
  - [Sklearn](https://scikit-learn.org/stable/)
 
 
-## 🔗 Links
-
-For my work you can follow:
-
-
-[![linkedin](https://www.linkedin.com/in/ramyasri-adepu/)
 
