@@ -140,7 +140,7 @@ Entire code and hidden information You can get it from the above coding file:
 
 ## Support
 
-For support, email saikamal9797@gmail.com .
+For support, email ramyasri.adepu0107@gmail.com
 
 
 ## Acknowledgements
@@ -154,6 +154,5 @@ For support, email saikamal9797@gmail.com .
 For my work you can follow:
 
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-kamal-korlakunta-a81326163/)
+[![linkedin](https://www.linkedin.com/in/ramyasri-adepu/)
 
-[Medium](https://medium.com/@korlakuntasaikamal10)
